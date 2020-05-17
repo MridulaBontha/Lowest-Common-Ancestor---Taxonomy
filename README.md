@@ -14,10 +14,10 @@ python3 lowest_common_ancestor.py <path to nodes.dmp> < path to names.dmp> <taxi
   
 ## Some sample output:
 ```
-python3 lowest_common_ancestor.py.py nodes.dmp names.dmp 9931 9954 class
+python3 lowest_common_ancestor.py nodes.dmp names.dmp 9931 9954 class
 Lowest common ancestor between Damaliscus pygargus and Cephalophus is Mammalia
 
-python3 lowest_common_ancestor.py.py nodes.dmp names.dmp 9931 9954
+python3 lowest_common_ancestor.py nodes.dmp names.dmp 9931 9954
 Lowest common ancestor between Damaliscus pygargus and Cephalophus is Bovidae
 ```
 
