@@ -4,7 +4,7 @@ The Python script lowest_common_ancestor provides the lowest common ancestor bet
 [NCBI taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy). The user needs to input the taxids of both the organisms. It is optional to provide the rank at which the ancestor has to be located.
 
 
-The taxonomy dumpt can be found [here](https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxdump.tar.gz)
+The taxonomy dump can be found [here](https://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxdump.tar.gz)
 
 ## Requirements
 
