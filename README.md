@@ -1,8 +1,8 @@
 # Lowest-Common-Ancestor-Taxonomy
 
-The Python script lowest_common_ancestor provides the lowest common ancestor between two given organism listed in
+The Python script lowest_common_ancestor provides the lowest common ancestor between two given organism listed in   
 [NCBI taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy).
-The user needs to input the taxids of both the organisms. It is optional to provide the rank at which the ancestor has to found.
+The user needs to input the taxids of both the organisms. It is optional to provide the rank at which the ancestor has to be located.
 
 ## Requirements
 
