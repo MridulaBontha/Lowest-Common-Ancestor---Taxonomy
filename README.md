@@ -3,7 +3,7 @@
 The Python script lowest_common_ancestor provides the lowest common ancestor between two given organism.
 The user needs to input the taxids of both the organisms. It is optional to provide the rank at which the ancestor has to found.
 
-## REQUIREMENTS
+## Requirements
 
 This module requires Python3 installation.
 
@@ -20,3 +20,6 @@ Lowest common ancestor between Damaliscus pygargus and Cephalophus is Mammalia
 python3 lowest_common_ancestor.py.py nodes.dmp names.dmp 9931 9954
 Lowest common ancestor between Damaliscus pygargus and Cephalophus is Bovidae
 ```
+
+## Support
+For support contact mridula.bvs@gmail.com
